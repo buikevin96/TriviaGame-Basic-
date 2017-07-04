@@ -1,0 +1,43 @@
+body {
+	background-color: blue;
+}
+
+#wrapper { 
+	color: white;
+	height: 120%;
+	width: 900px;
+
+	position: absolute;
+	top: 40%;
+	left: 40%;
+	margin-top: -250px;
+	margin-left: -275px;
+	margin-bottom: 250px;
+	background-color: red;
+}
+
+#title {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+#subwrapper #start {
+	margin-left: 400px;
+	height: 50px;
+	width: 100px;
+	background-color: blue;
+	color: white;
+	font-size: 30px;
+}
+
+#end {
+	width: 100px;
+	height: 30px;
+	margin-left: 400px;
+	background-color: blue;
+	color: white;
+	font-size: 20px;
+}
